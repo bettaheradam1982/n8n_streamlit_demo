@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+
+# Streamlit Cache
+.streamlit/
+
+# Lokale Daten (Sicherheitsgründe)
+data/backups/
+data/reports/
+data/logs/
+data/*.json
+data/.env
+data/logo.png
+
+# System
+.DS_Store
+Thumbs.db
