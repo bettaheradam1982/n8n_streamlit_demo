@@ -1,4 +1,4 @@
-# 🧩 n8n_to_streamlit_project
+# 🧩 Arzt_Praxis_streamlit_project
 
 Ein vollständig lokales Dashboard zur Verwaltung von Praxisdaten mit:
 
